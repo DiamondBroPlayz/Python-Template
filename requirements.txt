@@ -1,1 +1,1 @@
-Remove this and put in your requirements for your python script.
+pyfiglet
